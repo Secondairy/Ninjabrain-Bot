@@ -85,7 +85,9 @@ also be used as a sanity check in runs, if the angle errors are abnormally large
 
 #### 8. Can Ninjabrain Bot do my taxes?
 
-No, Ninjabrain Bot does not presently support this functionality.
+Yes as of v1.6.9 Ninjabrain Bot can be used to calculate your tax owing/return, sleep schedule and optimal sleep cycles, literacy homework*, and more!
+
+*up to a grade 6 reading level
 
 #### 9. What is "Use advanced stronghold statistics" in the settings?
 
